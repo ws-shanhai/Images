@@ -1,3 +1,2 @@
 # Images
 Typora图床
-密钥：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
